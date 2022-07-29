@@ -1,0 +1,10 @@
+{
+  "simulation": "API.ContactList",
+  "simulationId": "contactlist",
+  "start": 1651661306787,
+  "description": "Demo100Users",
+  "scenarios": ["Get API Request"],
+  "assertions": [
+
+  ]
+}
